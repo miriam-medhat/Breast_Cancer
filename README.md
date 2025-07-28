@@ -42,10 +42,6 @@ These were selected based on feature importance in Logistic Regression:
 
 ---
 
-##
-
----
-
 ## 🚀 Technologies Used
 
 * Python
