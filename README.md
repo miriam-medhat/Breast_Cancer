@@ -78,7 +78,6 @@ These were selected based on feature importance in Logistic Regression:
 Each input is explained with:
 
 * Min/Max range from dataset
-*
 
 ---
 
